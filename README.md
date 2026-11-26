@@ -112,7 +112,7 @@ Screenshots and practical demonstrations of the Maven build process are included
 ![WAR Packaging](./Screenshots/war-packaging.png)
 
 ## POM Configuration 
-![POM Configuration](./Screenshots/pom-config .png)
+![POM Configuration](./Screenshots/pom-config.png)
 
 
 
