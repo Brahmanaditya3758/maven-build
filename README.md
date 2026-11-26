@@ -106,13 +106,13 @@ Screenshots and practical demonstrations of the Maven build process are included
 ![Maven Build](./Screenshots/maven-build.png)
 
 ## Java (JDK)
-![Java Config](./Screenshots/java-config)
+![Java Config](./Screenshots/java-config.png)
 
 ## WAR Packaging
 ![WAR Packaging](./Screenshots/war-packaging.png)
 
 ## POM Configuration 
-![POM Configuration](./Screenshots/pom-config.png)
+![POM Configuration](./Screenshots/pom-config .png)
 
 
 
