@@ -103,16 +103,16 @@ This helped me understand:
 Screenshots and practical demonstrations of the Maven build process are included in this repository.
 
 ## Maven Build Process
-![Maven Build](screenshots/maven-build.png)
+![Maven Build](./screenshots/maven-build.png)
 
 ## Java (JDK)
-![Java Config](screenshots/java-config)
+![Java Config](./screenshots/java-config)
 
 ## WAR Packaging
-![WAR Packaging](screenshots/war-packaging.png)
+![WAR Packaging](./screenshots/war-packaging.png)
 
 ## POM Configuration 
-![POM Configuration](screenshots/pom-config.png)
+![POM Configuration](./screenshots/pom-config.png)
 
 
 
